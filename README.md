@@ -1,16 +1,11 @@
-### 🤔 
+🤔 ask me about my hpe microserver setup
 
-<!--
-**jjmcnelis/jjmcnelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+ OS: Debian 10 buster
+ Kernel: x86_64 Linux 4.19.0-10-amd64
+ Uptime: 22d 15h 9m
+ Shell: bash 5.0.3
+ CPU: Intel Xeon E-2224 @ 4x 4.141GHz [48.0°C]
+ GPU: mgadrmfb
+ RAM: 907MiB / 15893MiB
+```

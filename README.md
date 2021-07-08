@@ -1,1 +1,1 @@
-🤔 ask me about my fledgling hpc project, "little pleiades"
+🤔 ask me about hpc projects
